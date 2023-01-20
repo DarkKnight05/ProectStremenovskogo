@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScrean.unity
+    guid: ca63af34e03a48a4b9dda553cfcf5ce7
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2bcb90ae80f711341a46db72569011fc
+  - enabled: 1
+    path: Assets/Scenes/Camera1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Quexstion1.unity
+    guid: eaa0e24cb606e324bb4a6499538cac09
+  - enabled: 1
+    path: Assets/Scenes/Right1.unity
+    guid: c156853a146c08a42be276456d1b4cae
+  - enabled: 1
+    path: Assets/Scenes/Key2.unity
+    guid: 5a17f6dff1f3bb540966b0a34d00a441
+  - enabled: 1
+    path: Assets/Scenes/Camera2.unity
+    guid: bfd027cc59163194fbe53d870eb58322
+  - enabled: 1
+    path: Assets/Scenes/Quexstion2.unity
+    guid: 969ef6e83ea2cbf49ad07c9b51a263a3
+  - enabled: 1
+    path: Assets/Scenes/Right2.unity
+    guid: a8832f39bf08e8742b1d582f092c41ef
+  - enabled: 1
+    path: Assets/Scenes/Key3.unity
+    guid: 979f72a3178dfa943b6d06b0795b8def
+  - enabled: 1
+    path: Assets/Scenes/Camera3.unity
+    guid: f8eb5f38640147a48a09ada1e5bb6ec1
+  - enabled: 1
+    path: Assets/Scenes/Quexstion3.unity
+    guid: 192827bda00393d41ba02d35af93b4b3
+  - enabled: 1
+    path: Assets/Scenes/Right3.unity
+    guid: bfc1902ae5a68204cacbcb60ace035f8
+  m_configObjects: {}

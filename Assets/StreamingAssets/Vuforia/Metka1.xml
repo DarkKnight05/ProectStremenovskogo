@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="WorkMetka4" size="0.100000 0.101546" />
+    <ImageTarget name="WorkMetka3" size="0.100000 0.099669" />
+    <ImageTarget name="WorkMetka2" size="0.100000 0.100334" />
+    <ImageTarget name="WorkMetka" size="0.100000 0.102550" />
+    <ImageTarget name="ThirdMetka" size="0.100000 0.101783" />
+    <ImageTarget name="TrueMetka" size="0.100000 0.102871" />
+    <ImageTarget name="pzpz" size="0.100000 0.043926" />
+  </Tracking>
+</QCARConfig>
